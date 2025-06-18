@@ -53,7 +53,7 @@ This project performs an end-to-end analysis of **Google search results** using 
 ### 🔧 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/google-search-analysis.git
+git clone https://github.com/Harshay3000/google-search-analysis.git
 cd google-search-analysis
 
 ###  📦 2. Install dependencies
